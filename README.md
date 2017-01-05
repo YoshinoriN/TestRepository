@@ -1,6 +1,8 @@
 # TestRepository
 Test repository
 
+[![Gitter chat](https://badges.gitter.im/YorhinoriN/TestRepository.png)](https://gitter.im/YorhinoriN/TestRepository) 
+
 
 |ぱぱぱ|ぺぺぺ|
 |---|---|
