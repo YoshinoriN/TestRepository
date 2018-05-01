@@ -10,3 +10,5 @@ Test repository
 
 
 ![menu](https://raw.githubusercontent.com/YoshinoriN/gitbucket-monitoring-plugin/master/doc/images/menu.png)
+
+テスト！！
