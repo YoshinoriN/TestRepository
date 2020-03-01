@@ -13,6 +13,10 @@ categories:
       - 'fix'
       - 'bugfix'
       - 'bug'
+  - title: 'Performance'
+    labels:
+      - 'performance'
+      - '#perfmatters'
   - title: 'Dependencies'
     label:
       - 'dependencies'
