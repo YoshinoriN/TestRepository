@@ -1,13 +1,12 @@
-# Config for https://github.com/toolmantim/release-drafter
 name-template: '$NEXT_PATCH_VERSION'
-tag-template: 'v$NEXT_PATCH_VERSION'
-
+tag-template: '$NEXT_PATCH_VERSION'
 categories:
-  - title: 'Bug Fixes'
-    label: 'bug'
-  - title: 'Enhancements'
-    label: 'enhancement'
-
+  - title: '### Features'
+    labels: 'feat'
+  - title: '### Fixes'
+    labels: 'fix'
+  - title: '### Dependencies'
+    label: 'chore'
+change-template: '- $TITLE [#$NUMBER]'
 template: |
-  ## Changes
   $CHANGES
