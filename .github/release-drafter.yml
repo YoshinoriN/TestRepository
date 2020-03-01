@@ -18,7 +18,7 @@ categories:
       - 'performance'
       - '#perfmatters'
   - title: 'Dependencies'
-    label:
+    labels:
       - 'dependencies'
   - title: 'Refactor'
       - 'refactor'
